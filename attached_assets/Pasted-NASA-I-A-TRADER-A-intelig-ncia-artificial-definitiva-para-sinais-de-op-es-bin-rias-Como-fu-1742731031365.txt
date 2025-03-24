@@ -1,0 +1,62 @@
+NASA I.A TRADER 🚀
+
+A inteligência artificial definitiva para sinais de opções binárias!
+
+🔥 Como funciona?
+
+A plataforma NASA I.A TRADER gera sinais de entrada para opções binárias, garantindo que os usuários entrem nos melhores momentos do mercado. O sistema foi projetado para ser rápido, preciso e extremamente fácil de usar.
+
+1️⃣ Escolha o par de moedas
+	•	O usuário precisa selecionar um dos pares de moedas disponíveis.
+	•	IMPORTANTE: Os pares de moedas NÃO devem ficar um do lado do outro. Eles devem aparecer em uma lista suspensa (drop-down).
+	•	Quando o usuário clicar para selecionar, os pares devem ser exibidos com as bandeiras ao lado dos códigos.
+
+📌 Pares disponíveis:
+	•	🇪🇺 EUR / 🇺🇸 USD
+	•	🇬🇧 GBP / 🇺🇸 USD
+	•	🇺🇸 USD / 🇨🇦 CAD
+	•	🇺🇸 USD / 🇯🇵 JPY
+	•	🇦🇺 AUD / 🇺🇸 USD
+	•	🇺🇸 USD / 🇨🇭 CHF
+	•	🇳🇿 NZD / 🇺🇸 USD
+	•	🇺🇸 USD / 🇧🇷 BRL (Dólar e Real – esse tem que estar incluso no sistema!)
+
+2️⃣ Escolha o tempo de expiração
+	•	O usuário deve escolher um dos tempos de expiração disponíveis:
+✅ 1 minuto
+✅ 2 minutos
+✅ 5 minutos
+
+3️⃣ Gerar o Sinal
+	•	Depois de selecionar o par de moedas e o tempo de expiração, o usuário verá o botão “Gerar Sinal”.
+	•	O botão só aparece depois que ele selecionar tudo corretamente.
+	•	Assim que clicar, o sistema terá um delay de 2 segundos antes de exibir o sinal.
+
+4️⃣ Exibição do Sinal
+	•	ATENÇÃO: O horário da entrada tem que ser correspondente ao horário real de Brasília!
+	•	Se o usuário gerou o sinal às 19h38, a entrada será para 19h39 ou 19h40 (1 ou 2 minutos depois, intercalando automaticamente).
+	•	O sinal será exibido com cores diferentes para facilitar a leitura:
+🔺 Acima (Verde) → Quando a previsão for de alta.
+🔻 Abaixo (Vermelho) → Quando a previsão for de queda.
+
+⸻
+
+🎯 Design e funcionalidades extras:
+
+✅ Feedback visual: Sempre que o usuário escolher um par de moedas e um tempo de expiração, o sistema destacará a seleção com bordas neon.
+✅ Botão de “Gerar Sinal” animado: Com efeito de brilho pulsante ou borda animada para chamar atenção.
+✅ Lista suspensa para os pares de moedas: Os pares NÃO devem estar um ao lado do outro. O usuário deve clicar em um botão e a lista com as opções deve aparecer.
+✅ Botão de acesso à corretora: Deve ser um botão grande e chamativo, com o nome “Acesse a Corretora da NASA”.
+✅ Posicionamento do botão: O botão de acesso à corretora deve ficar abaixo do sinal gerado.
+✅ Legenda abaixo do botão:
+	•	Aqui os sinais funcionam!
+
+🔗 Link direto da corretora (NÃO ENCORTAR O LINK!):
+👉 https://exnova.com/lp/start-trading/?aff=751488&aff_model=revenue&afftrack=
+
+⸻
+
+🎨 Estilo do título “NASA I.A TRADER”
+
+🚀 Remover o satélite e substituir por um foguete ou o logo da NASA!
+🚀 As cores do título precisam seguir o estilo da NASA (azul, branco, vermelho) para dar um visual mais bonito e profissional.
